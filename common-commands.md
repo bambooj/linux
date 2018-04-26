@@ -1,14 +1,17 @@
-## 用户
+## 用户相关
+
 ### 查看系统所有用户
 1. 查看/home目录 
 
-#### 新增用户adduser
+### 新增用户adduser
 > adduser wukj
 
-#### 给新增用户设置密码
+### 给新增用户设置密码
 > passwd wukj mypassword
-### 用户组group
-#### 查看系统有哪些用户组
+
+## 用户组相关
+
+### 查看系统有哪些用户组
 > cat /etc/group
 
 ### 新增用户组
